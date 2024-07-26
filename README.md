@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I am a Data Analyst with a strong background in bu
 🔍 What I Do
 
 Business Intelligence Reporting: Develop comprehensive BI reports using Microsoft Power BI to provide clear insights into business operations. 
+
 Data Integration: Connect and analyze data from various sources, including SQL Server, Excel, and SharePoint.
 
 💼 Professional Skills

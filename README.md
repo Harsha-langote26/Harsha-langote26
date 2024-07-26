@@ -1,4 +1,5 @@
 Hi there, I'm Harsha LAngote 👋
+
 Welcome to my GitHub profile! I am a Data Analyst with a strong background in business intelligence, data visualization. At Allstate Insurance Company, I have honed my skills in integrating and analyzing data to drive informed decision-making and operational efficiency.
 
 🔍 What I Do
